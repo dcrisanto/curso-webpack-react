@@ -1,0 +1,8 @@
+{
+    "presets": [
+        //compilar todo el tipo de js emacscript6,7..
+        "@babel/preset-env",
+        //sintaxis de react
+        "@babel/preset-react"
+    ]
+}
